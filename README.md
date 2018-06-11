@@ -22,12 +22,10 @@ b.	And we can get a better model if the number of pictures is big enough.
 c.	We also can use Deep Learning to train the data.
 
 ## Task Allocation
+```
 ML	main模块代码及说明文档
-```
 WZ	neural模块代码及说明文档
-```
 ZXC	car模块代码及说明文档
-```
 FX	utils模块代码及说明文档
-```
 LHY	实验报告，Presentation
+```
