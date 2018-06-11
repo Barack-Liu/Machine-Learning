@@ -1,7 +1,7 @@
 # Machine-Learning
 Application of machine learning in car number identification.
 
-##Task Description
+## Task Description
 1.	The image text recognition application recognizes text from a given picture. This is much more complicated than recognizing text from a scanned document.
 2.	Vehicle is indispensable in social life.
 a.	License plate recognition is a very successful application of machine learning in practical engineering.
@@ -21,7 +21,7 @@ a.	Large number of pictures are used to train the Neural Network.
 b.	And we can get a better model if the number of pictures is big enough.
 c.	We also can use Deep Learning to train the data.
 
-##Task Allocation
+## Task Allocation
 ML	main模块代码及说明文档
 WZ	neural模块代码及说明文档
 ZXC	car模块代码及说明文档
