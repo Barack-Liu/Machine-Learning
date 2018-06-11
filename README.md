@@ -1,6 +1,9 @@
 # Machine-Learning
 Application of machine learning in car number identification.
 
+## 	Execution
+run: ./main.py
+
 ## Task Description
 1.	The image text recognition application recognizes text from a given picture. This is much more complicated than recognizing text from a scanned document.
 2.	Vehicle is indispensable in social life.
