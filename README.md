@@ -2,8 +2,14 @@
 ## Project Description
 Application of machine learning in car number identification.
 
+## Environment Requirement
+Programming language: Python 3.x;<br> 
+Third-party library: OpenCV 3;<br> 
+Processor: Intel(R) Core(TM) i5-7200U CPU @ 2.50GHz 2.71GHz 
+
+
 ## 	Execution
-run: ./main.py
+run: cd src && python main.py
 
 ## Project Requirement
 1.	The image text recognition application recognizes text from a given picture. This is much more complicated than recognizing text from a scanned document.
