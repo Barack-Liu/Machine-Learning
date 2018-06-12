@@ -3,8 +3,8 @@
 Application of machine learning in car number identification.
 
 ## Environment Requirement
-Programming language: Python 3.x;<br> 
-Third-party library: OpenCV 3;<br> 
+Programming language: Python 3.x<br> 
+Third-party library: OpenCV 3<br> 
 Processor: Intel(R) Core(TM) i5-7200U CPU @ 2.50GHz 2.71GHz 
 
 
