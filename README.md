@@ -9,7 +9,9 @@ Processor: Intel(R) Core(TM) i5-7200U CPU @ 2.50GHz 2.71GHz
 
 
 ## 	Execution
-run: cd src && python main.py
+1. cd src
+2. Test a real-world scenario: python main.py "../testing_full_system/testing_full_system"
+3. Train a new neural network (new or existing): python neural.py "../training_ocr/training_ocr/" "../training_ocr/testing_ocr/"
 
 ## Project Requirement
 1.	The image text recognition application recognizes text from a given picture. This is much more complicated than recognizing text from a scanned document.
